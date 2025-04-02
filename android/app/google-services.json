@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935432551590",
+    "project_id": "placement-31b2c",
+    "storage_bucket": "placement-31b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935432551590:android:da1bd458412cdf6b7b4867",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRCq8Yw0w3pLuMojD9_kB_nVKcKMDGSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
